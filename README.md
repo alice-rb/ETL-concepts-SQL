@@ -1,24 +1,25 @@
-1️⃣ Diseño de BBDD a partir de CSV
+1️⃣ Database Design from CSV
 
-✔ Extract: datos provenientes de CSV
-✔ Transform: definición de estructura, claves, relaciones
-✔ Load: creación de tablas y carga en BBDD
+✔ Extract: data imported from CSV files
+✔ Transform: define structure, keys, and relationships
+✔ Load: create tables and load data into the database
 
-2️⃣ Modelado dimensional (estrella)
+2️⃣ Dimensional Modeling (Star Schema)
 
-✔ Transformación de datos operacionales
-✔ Diseño para analítica
-✔ Enfoque Data Warehouse / BI
+✔ Transform operational data
+✔ Design for analytics
+✔ Data Warehouse / BI approach
 
-3️⃣ Creación de nuevas tablas derivadas
+3️⃣ Creation of Derived Tables
 
-✔ Derivación de nuevas tablas
-✔ Cambio de nivel de granularidad
-✔ Preparación de datos para análisis
+✔ Derive new tables
+✔ Change the level of granularity
+✔ Prepare data for analysis
 
-4️⃣ Uso de subconsultas y joins complejos
+4️⃣ Use of Subqueries and Complex Joins
 
-Usuarios con +80 transacciones
-Media de amount por IBAN
-Ventas por producto
+Users with more than 80 transactions
 
+Average amount per IBAN
+
+Sales by product
